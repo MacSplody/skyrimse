@@ -1665,6 +1665,8 @@ groups:
 
   - name: &aslalGroup Alternate Start - Live Another Life
 
+  - name: &skyrimUnboundGroup Skyrim Unbound
+
   - name: &racesGroup Races & Classes
     description: 'A group for modules that modify character Races & Classes.'
     after: [ default ]
