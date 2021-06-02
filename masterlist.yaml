@@ -1666,6 +1666,8 @@ groups:
 
   - name: &buvarpGroup Barely Used Vanilla Actors Recycle Project
 
+  - name: &effGroup Extensible Follower Framework
+
   - name: &gdoGroup Guard Dialogue Overhaul
 
   - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
