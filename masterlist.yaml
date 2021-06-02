@@ -1666,6 +1666,8 @@ groups:
 
   - name: &rdoGroup Relationship Dialogue Overhaul
 
+  - name: &cvrGroup Castle Volkihar Rebuilt
+
   - name: &crfGroup Cutting Room Floor
 
   - name: &tciyGroup The Choice is Yours
