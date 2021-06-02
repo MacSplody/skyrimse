@@ -1659,6 +1659,8 @@ groups:
   - name: &ambrielGroup Ambriel
 
   - name: &immersiveArmorsGroup Immersive Armors
+    after:
+      - *ambrielGroup
 
   - name: &rdoGroup Relationship Dialogue Overhaul
 
