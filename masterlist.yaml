@@ -1686,6 +1686,8 @@ groups:
 
   - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
 
+  - name: &mluGroup Morrowloot Ultimate
+
   - name: &aslalGroup Alternate Start - Live Another Life
 
   - name: &skyrimUnboundGroup Skyrim Unbound
