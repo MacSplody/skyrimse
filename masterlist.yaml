@@ -1664,6 +1664,8 @@ groups:
 
   - name: &crfGroup Cutting Room Floor
 
+  - name: &buvarpGroup Barely Used Vanilla Actors Recycle Project
+
   - name: &gdoGroup Guard Dialogue Overhaul
 
   - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
