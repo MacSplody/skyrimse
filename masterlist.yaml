@@ -1663,6 +1663,8 @@ groups:
 
   - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
 
+  - name: &aslalGroup Alternate Start - Live Another Life
+
   - name: &racesGroup Races & Classes
     description: 'A group for modules that modify character Races & Classes.'
     after: [ default ]
