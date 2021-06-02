@@ -1657,6 +1657,8 @@ groups:
 
 ###### Testing Groups
 
+  - name: &rdoGroup Relationship Dialogue Overhaul
+
   - name: &crfGroup Cutting Room Floor
 
   - name: &gdoGroup Guard Dialogue Overhaul
