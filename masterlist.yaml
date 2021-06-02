@@ -1670,6 +1670,8 @@ groups:
 
   - name: &crfGroup Cutting Room Floor
 
+  - name: &bcsGroup Book Covers Skyrim
+
   - name: &tciyGroup The Choice is Yours
 
   - name: &allarGroup A Lovely Letter Alternate Routes
