@@ -1656,6 +1656,7 @@ groups:
     after: [ *earlyLoadersGroup ]
 
 ###### Testing Groups
+  - name: &ambrielGroup Ambriel
 
   - name: &immersiveArmorsGroup Immersive Armors
 
