@@ -1655,6 +1655,10 @@ groups:
   - name: default
     after: [ *earlyLoadersGroup ]
 
+###### Testing Groups
+
+  - name: &gdoGroup Guard Dialogue Overhaul
+
   - name: &racesGroup Races & Classes
     description: 'A group for modules that modify character Races & Classes.'
     after: [ default ]
