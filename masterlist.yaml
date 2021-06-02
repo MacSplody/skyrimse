@@ -1657,6 +1657,8 @@ groups:
 
 ###### Testing Groups
 
+  - name: &immersiveArmorsGroup Immersive Armors
+
   - name: &rdoGroup Relationship Dialogue Overhaul
 
   - name: &crfGroup Cutting Room Floor
