@@ -1661,6 +1661,8 @@ groups:
 
   - name: &gdoGroup Guard Dialogue Overhaul
 
+  - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
+
   - name: &racesGroup Races & Classes
     description: 'A group for modules that modify character Races & Classes.'
     after: [ default ]
