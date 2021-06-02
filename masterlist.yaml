@@ -1668,6 +1668,8 @@ groups:
 
   - name: &crfGroup Cutting Room Floor
 
+  - name: &tciyGroup The Choice is Yours
+
   - name: &buvarpGroup Barely Used Vanilla Actors Recycle Project
 
   - name: &effGroup Extensible Follower Framework
