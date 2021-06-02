@@ -1657,6 +1657,8 @@ groups:
 
 ###### Testing Groups
 
+  - name: &crfGroup Cutting Room Floor
+
   - name: &gdoGroup Guard Dialogue Overhaul
 
   - name: &racesGroup Races & Classes
