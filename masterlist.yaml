@@ -1662,6 +1662,8 @@ groups:
     after:
       - *ambrielGroup
 
+  - name: &icaioGroup Immersive Citizens AI Overhaul
+
   - name: &rdoGroup Relationship Dialogue Overhaul
 
   - name: &crfGroup Cutting Room Floor
