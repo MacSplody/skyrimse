@@ -1716,6 +1716,11 @@ groups:
 
   - name: &sacrosanctGroup Sacrosanct - Vampires of Skyrim
 
+  - name: &betterVampiresGroup Better Vampires
+    after:
+      - *requiemGroup
+      - *sacrosanctGroup
+
   - name: &vampiricThirstGroup Vampiric Thirst
 
   - name: &wpeGroup Werewolf Perks Expanded
