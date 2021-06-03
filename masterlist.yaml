@@ -1664,6 +1664,8 @@ groups:
 
   - name: &ebqoGroup Even Better Quest Objectives
 
+  - name: &landscapeFixesGroup Landscape Fixes For Grass Mods
+
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
   - name: &rdoGroup Relationship Dialogue Overhaul
