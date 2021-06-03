@@ -1715,10 +1715,11 @@ groups:
   - name: &pathOfSorceryGroup Path Of Sorcery
 
   - name: &sacrosanctGroup Sacrosanct - Vampires of Skyrim
+    after:
+      - *requiemGroup
 
   - name: &betterVampiresGroup Better Vampires
     after:
-      - *requiemGroup
       - *sacrosanctGroup
 
   - name: &vampiricThirstGroup Vampiric Thirst
