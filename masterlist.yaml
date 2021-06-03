@@ -1692,6 +1692,8 @@ groups:
 
   - name: &mluGroup Morrowloot Ultimate
 
+  - name: &vokriiGroup Vokrii - Minimalistic Perks of Skyrim
+
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
   - name: &pathOfSorceryGroup Path Of Sorcery
