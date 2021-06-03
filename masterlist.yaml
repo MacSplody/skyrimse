@@ -1690,6 +1690,8 @@ groups:
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
+  - name: &vampiricThirstGroup Vampiric Thirst
+
   - name: &wpeGroup Werewolf Perks Expanded
 
   - name: &effGroup Extensible Follower Framework
