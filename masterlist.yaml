@@ -1698,6 +1698,8 @@ groups:
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
+  - name: &aiDetectionGroup Realistic AI Detection
+
   - name: &religionGroup Religion
     after:
       - *requiemGroup
