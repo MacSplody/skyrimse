@@ -1698,6 +1698,10 @@ groups:
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
+  - name: &clairvoyanceGroup Clairvoyance reveals quest markers
+    after:
+      - *requiemGroup
+
   - name: &enchantingAwakenedGroup Enchanting Awakened
     after:
       - *requiemGroup
