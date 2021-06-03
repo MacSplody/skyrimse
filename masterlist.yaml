@@ -1740,6 +1740,8 @@ groups:
 
   - name: &skyrimUnboundGroup Skyrim Unbound
 
+  - name: &rloInteriorsGroup Realistic Lighting Overhaul - Interiors
+
   - name: &racesGroup Races & Classes
     description: 'A group for modules that modify character Races & Classes.'
     after: [ default ]
