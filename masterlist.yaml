@@ -1742,6 +1742,8 @@ groups:
 
   - name: &rloInteriorsGroup Realistic Lighting Overhaul - Interiors
 
+  - name: &pceGroup Palaces and Castles Enhanced
+
   - name: &racesGroup Races & Classes
     description: 'A group for modules that modify character Races & Classes.'
     after: [ default ]
