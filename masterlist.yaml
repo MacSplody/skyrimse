@@ -1664,8 +1664,6 @@ groups:
 
   - name: &ebqoGroup Even Better Quest Objectives
 
-  - name: &wintersunGroup Wintersun Faiths of Skyrim
-
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
   - name: &rdoGroup Relationship Dialogue Overhaul
@@ -1675,6 +1673,8 @@ groups:
   - name: &crfGroup Cutting Room Floor
 
   - name: &bcsGroup Book Covers Skyrim
+
+  - name: &wintersunGroup Wintersun Faiths of Skyrim
 
   - name: &tciyGroup The Choice is Yours
 
