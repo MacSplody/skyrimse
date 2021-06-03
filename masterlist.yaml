@@ -1678,6 +1678,8 @@ groups:
 
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
+  - name: &roriksteadGroup Rorikstead
+
   - name: &rdoGroup Relationship Dialogue Overhaul
 
   - name: &cvrGroup Castle Volkihar Rebuilt
