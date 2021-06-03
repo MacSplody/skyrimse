@@ -1682,8 +1682,6 @@ groups:
 
   - name: &buvarpGroup Barely Used Vanilla Actors Recycle Project
 
-  - name: &effGroup Extensible Follower Framework
-
   - name: &gdoGroup Guard Dialogue Overhaul
 
   - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
@@ -1693,6 +1691,8 @@ groups:
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
   - name: &wpeGroup Werewolf Perks Expanded
+
+  - name: &effGroup Extensible Follower Framework
 
   - name: &aslalGroup Alternate Start - Live Another Life
 
