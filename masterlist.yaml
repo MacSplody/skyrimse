@@ -1690,6 +1690,8 @@ groups:
 
   - name: &mluGroup Morrowloot Ultimate
 
+  - name: &requiemGroup Requiem - The Roleplaying Overhaul
+
   - name: &aslalGroup Alternate Start - Live Another Life
 
   - name: &skyrimUnboundGroup Skyrim Unbound
