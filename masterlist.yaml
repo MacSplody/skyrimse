@@ -1698,6 +1698,10 @@ groups:
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
+  - name: &religionGroup Religion
+    after:
+      - *requiemGroup
+
   - name: &pathOfSorceryGroup Path Of Sorcery
 
   - name: &sacrosanctGroup Sacrosanct - Vampires of Skyrim
