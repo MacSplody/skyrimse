@@ -1674,6 +1674,8 @@ groups:
 
   - name: &bcsGroup Book Covers Skyrim
 
+  - name: &cwoReduxGroup CIVIL WAR OVERHAUL - Redux
+
   - name: &wintersunGroup Wintersun Faiths of Skyrim
 
   - name: &tciyGroup The Choice is Yours
