@@ -1680,6 +1680,8 @@ groups:
 
   - name: &tciyGroup The Choice is Yours
 
+  - name: &BoethiahBiddingGroup Boethiah''s Bidding
+
   - name: &allarGroup A Lovely Letter Alternate Routes
 
   - name: &buvarpGroup Barely Used Vanilla Actors Recycle Project
