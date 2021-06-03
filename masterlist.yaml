@@ -1670,6 +1670,8 @@ groups:
 
   - name: &landscapeFixesGroup Landscape Fixes For Grass Mods
 
+  - name: &soundsOfSkyrimGroup Sounds of Skyrim Complete
+
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
   - name: &rdoGroup Relationship Dialogue Overhaul
