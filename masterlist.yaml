@@ -1672,6 +1672,8 @@ groups:
 
   - name: &soundsOfSkyrimGroup Sounds of Skyrim Complete
 
+  - name: &soljundSinkholeGroup Soljund''s Sinkhole
+
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
   - name: &rdoGroup Relationship Dialogue Overhaul
