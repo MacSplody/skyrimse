@@ -1694,6 +1694,8 @@ groups:
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
+  - name: &pathOfSorceryGroup Path Of Sorcery
+
   - name: &sacrosanctGroup Sacrosanct - Vampires of Skyrim
 
   - name: &vampiricThirstGroup Vampiric Thirst
