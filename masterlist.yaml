@@ -1698,9 +1698,13 @@ groups:
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
-  - name: &realRagdollForceGroup Realistic Ragdolls and Force
+  - name: &xp32Group XP32 Maximum Skeleton
     after:
       - *requiemGroup
+
+  - name: &realRagdollForceGroup Realistic Ragdolls and Force
+    after:
+      - *xp32Group
 
   - name: &clairvoyanceGroup Clairvoyance reveals quest markers
     after:
