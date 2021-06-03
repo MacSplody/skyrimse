@@ -1692,6 +1692,8 @@ groups:
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
+  - name: &wpeGroup Werewolf Perks Expanded
+
   - name: &aslalGroup Alternate Start - Live Another Life
 
   - name: &skyrimUnboundGroup Skyrim Unbound
