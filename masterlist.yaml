@@ -1698,6 +1698,10 @@ groups:
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
+  - name: &realRagdollForceGroup Realistic Ragdolls and Force
+    after:
+      - *requiemGroup
+
   - name: &clairvoyanceGroup Clairvoyance reveals quest markers
     after:
       - *requiemGroup
