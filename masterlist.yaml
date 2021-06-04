@@ -1783,6 +1783,10 @@ groups:
     after:
       - *icowGroup
 
+  - name: &winterholdRestoredGroup Winterhold Restored
+    after:
+      - *obscuresCWGroup
+
   - name: &pceGroup Palaces and Castles Enhanced
 
   - name: &ocsGroup Open Cities Skyrim
