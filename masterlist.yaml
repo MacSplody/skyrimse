@@ -1701,6 +1701,9 @@ groups:
   - name: &allarGroup A Lovely Letter Alternate Routes
 
   - name: &buvarpGroup Barely Used Vanilla Actors Recycle Project
+    after:
+      - *crfGroup
+      - *rdoGroup
 
   - name: &gdoGroup Guard Dialogue Overhaul
 
