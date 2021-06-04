@@ -1706,11 +1706,15 @@ groups:
 
   - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
 
+  - name: &waccfACEGroup WACCF Armor and Clothing Extension
+    after:
+      - *waccfGroup
+
   - name: &mluGroup Morrowloot Ultimate
 
   - name: &ccorGroup Complete Crafting Overhaul Remastered
     after:
-      - *waccfGroup
+      - *waccfACEGroup
 
   - name: &cacoGroup Complete Alchemy and Cooking Overhaul
     after:
