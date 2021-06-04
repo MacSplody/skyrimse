@@ -1779,6 +1779,10 @@ groups:
 
   - name: &icowGroup Immersive College of Winterhold
 
+  - name: &obscuresCWGroup Obscure''s College of Winterhold
+    after:
+      - *icowGroup
+
   - name: &pceGroup Palaces and Castles Enhanced
 
   - name: &ocsGroup Open Cities Skyrim
