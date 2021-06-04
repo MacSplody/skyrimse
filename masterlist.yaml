@@ -1688,6 +1688,8 @@ groups:
 
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
+  - name: &cftoGroup Carriage and Ferry Travel Overhaul
+
   - name: &roriksteadGroup Rorikstead
 
   - name: &rdoGroup Relationship Dialogue Overhaul
