@@ -1672,6 +1672,10 @@ groups:
 
   - name: &soundsOfSkyrimGroup Sounds of Skyrim Complete
 
+  - name: &soulMusicGroup Soulmancer Music Merge
+    after:
+      - *soundsOfSkyrimGroup
+
   - name: &kynesgroveGroup Kynesgrove
 
   - name: &shorsStoneGroup Shor''s Stone
