@@ -1672,6 +1672,8 @@ groups:
 
   - name: &soundsOfSkyrimGroup Sounds of Skyrim Complete
 
+  - name: &kynesgroveGroup Kynesgrove
+
   - name: &shorsStoneGroup Shor''s Stone
 
   - name: &soljundSinkholeGroup Soljund''s Sinkhole
