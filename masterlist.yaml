@@ -1708,6 +1708,10 @@ groups:
 
   - name: &mluGroup Morrowloot Ultimate
 
+  - name: &cacoGroup Complete Alchemy and Cooking Overhaul
+    after:
+      - *waccfGroup
+
   - name: &vokriiGroup Vokrii - Minimalistic Perks of Skyrim
 
   - name: &ordinatorGroup Ordinator - Perks of Skyrim
