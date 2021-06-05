@@ -1674,9 +1674,13 @@ groups:
     after:
       - *verdantGroup
 
-  - name: &undeathGroup Undeath
+  - name: &moonAndStarGroup Moon and Star
     after:
       - *landscapeFixesGroup
+
+  - name: &undeathGroup Undeath
+    after:
+      - *moonAndStarGroup
 
   - name: &boydGroup Bring Out Your Dead
     after:
