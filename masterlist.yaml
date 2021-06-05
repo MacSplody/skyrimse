@@ -1667,8 +1667,12 @@ groups:
   - name: &enhancedLandscapesFixesGroup Enhanced Landscapes
 
   - name: &verdantGroup Verdant - A Skyrim Grass Plugin
+    after:
+      - *enhancedLandscapesFixesGroup
 
   - name: &landscapeFixesGroup Landscape Fixes For Grass Mods
+    after:
+      - *verdantGroup
 
   - name: &undeathGroup Undeath
     after:
