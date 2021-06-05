@@ -1735,7 +1735,11 @@ groups:
 
   - name: &vokriiGroup Vokrii - Minimalistic Perks of Skyrim
 
+  - name: &tradeBarterGroup Trade and Barter
+
   - name: &ordinatorGroup Ordinator - Perks of Skyrim
+    after:
+      - *tradeBarterGroup
 
   - name: &requiemGroup Requiem - The Roleplaying Overhaul
 
