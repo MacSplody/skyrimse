@@ -1666,11 +1666,13 @@ groups:
 
   - name: &ebqoGroup Even Better Quest Objectives
 
-  - name: &enhancedLandscapesFixesGroup Enhanced Landscapes
+  - name: &skyrim3DLandscapesGroup Skyrim 3D Landscapes
+
+  - name: &enhancedLandscapesGroup Enhanced Landscapes
 
   - name: &verdantGroup Verdant - A Skyrim Grass Plugin
     after:
-      - *enhancedLandscapesFixesGroup
+      - *enhancedLandscapesGroup
 
   - name: &landscapeFixesGroup Landscape Fixes For Grass Mods
     after:
