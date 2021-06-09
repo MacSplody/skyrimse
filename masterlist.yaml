@@ -1656,6 +1656,8 @@ groups:
     after: [ *earlyLoadersGroup ]
 
 ###### Testing Groups
+  - name: &nsutrGroup No snow under the roof
+
   - name: &ambrielGroup Ambriel
 
   - name: &immersiveArmorsGroup Immersive Armors
