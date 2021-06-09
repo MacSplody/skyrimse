@@ -1706,6 +1706,11 @@ groups:
 
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
+  - name: &graniteHillGroup Fall of Granite Hill
+    after:
+      - *holdBannersGroup
+      - *icaioGroup
+
   - name: &etacGroup Expanded Towns and Cities
 
   - name: &rigmorOfBrumaGroup Rigmor of Bruma
