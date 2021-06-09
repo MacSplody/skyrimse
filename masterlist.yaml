@@ -1702,6 +1702,8 @@ groups:
 
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
+  - name: &etacGroup Expanded Towns and Cities
+
   - name: &cftoGroup Carriage and Ferry Travel Overhaul
 
   - name: &roriksteadGroup Rorikstead
