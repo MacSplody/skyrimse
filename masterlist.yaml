@@ -1658,6 +1658,8 @@ groups:
 ###### Testing Groups
   - name: &nsutrGroup No snow under the roof
 
+  - name: &holdBannersGroup Hold Border Banners
+
   - name: &ambrielGroup Ambriel
 
   - name: &immersiveArmorsGroup Immersive Armors
