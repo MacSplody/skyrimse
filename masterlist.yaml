@@ -1820,6 +1820,8 @@ groups:
 
   - name: &skyrimUnboundGroup Skyrim Unbound
 
+  - name: &rlsGroup Relighting Skyrim
+
   - name: &rloInteriorsGroup Realistic Lighting Overhaul - Interiors
 
   - name: &icowGroup Immersive College of Winterhold
