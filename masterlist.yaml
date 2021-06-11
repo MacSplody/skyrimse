@@ -1680,6 +1680,8 @@ groups:
     after:
       - *verdantGroup
 
+  - name: &touringCarriagesGroup Touring Carriages
+
   - name: &moonAndStarGroup Moon and Star
     after:
       - *landscapeFixesGroup
@@ -1736,6 +1738,8 @@ groups:
   - name: &cvrGroup Castle Volkihar Rebuilt
 
   - name: &crfGroup Cutting Room Floor
+    after:
+      - *touringCarriagesGroup
 
   - name: &bcsGroup Book Covers Skyrim
 
