@@ -1754,6 +1754,10 @@ groups:
     after:
       - *icaioGroup
 
+  - name: &tbooGroup The Brotherhood of Old
+    after:
+      - *icaioGroup
+
   - name: &whistlingMineGroup Whistling Mine
     after:
       - *icaioGroup
