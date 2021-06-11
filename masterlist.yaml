@@ -1736,6 +1736,10 @@ groups:
     after:
       - *icaioGroup
 
+  - name: &pcsGroup Provincial Courier Service
+    after:
+      - *icaioGroup
+
   - name: &etacGroup Expanded Towns and Cities
 
   - name: &rigmorOfBrumaGroup Rigmor of Bruma
