@@ -1713,6 +1713,8 @@ groups:
   - name: &sewersGroup Skyrim Sewers
 
   - name: &icaioGroup Immersive Citizens AI Overhaul
+    after:
+      - *sewersGroup
 
   - name: &graniteHillGroup Fall of Granite Hill
     after:
@@ -1837,6 +1839,8 @@ groups:
       - *obscuresCWGroup
 
   - name: &pceGroup Palaces and Castles Enhanced
+    after:
+      - *icaioGroup
 
   - name: &ocsGroup Open Cities Skyrim
     after:
