@@ -1754,6 +1754,10 @@ groups:
     after:
       - *icaioGroup
 
+  - name: &whistlingMineGroup Whistling Mine
+    after:
+      - *icaioGroup
+
   - name: &etacGroup Expanded Towns and Cities
 
   - name: &rigmorOfBrumaGroup Rigmor of Bruma
