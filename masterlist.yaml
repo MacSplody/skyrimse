@@ -1692,6 +1692,8 @@ groups:
     after:
       - *verdantGroup
 
+  - name: &aosGroup Audio Overhaul Skyrim
+
   - name: &soundsOfSkyrimGroup Sounds of Skyrim Complete
 
   - name: &soulMusicGroup Soulmancer Music Merge
