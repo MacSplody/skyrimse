@@ -1811,8 +1811,12 @@ groups:
       - *rdoGroup
 
   - name: &BoethiahBiddingGroup Boethiah''s Bidding
+    after:
+      - *tciyGroup
 
   - name: &allarGroup A Lovely Letter Alternate Routes
+    after:
+      - *tciyGroup
 
   - name: &buvarpGroup Barely Used Vanilla Actors Recycle Project
     after:
