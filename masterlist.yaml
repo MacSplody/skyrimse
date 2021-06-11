@@ -1837,6 +1837,9 @@ groups:
   - name: &pceGroup Palaces and Castles Enhanced
 
   - name: &ocsGroup Open Cities Skyrim
+    after:
+      - *aslalGroup
+      - *pceGroup
 
   - name: &racesGroup Races & Classes
     description: 'A group for modules that modify character Races & Classes.'
