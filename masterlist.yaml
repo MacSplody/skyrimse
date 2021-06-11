@@ -1902,10 +1902,12 @@ groups:
 
   - name: &skyrimUnboundGroup Skyrim Unbound
     after:
+      - *requiemGroup
       - *icaioGroup
 
   - name: &rloInteriorsGroup Realistic Lighting Overhaul - Interiors
     after:
+      - *requiemGroup
       - *icaioGroup
 
   - name: &icowGroup Immersive College of Winterhold
@@ -1922,6 +1924,7 @@ groups:
 
   - name: &pceGroup Palaces and Castles Enhanced
     after:
+      - *rloInteriorsGroup
       - *icaioGroup
 
   - name: &ocsGroup Open Cities Skyrim
