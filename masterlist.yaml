@@ -1763,16 +1763,24 @@ groups:
       - *icaioGroup
 
   - name: &etacGroup Expanded Towns and Cities
+    after:
+      - *icaioGroup
 
   - name: &rigmorOfBrumaGroup Rigmor of Bruma
     after:
       - *etacGroup
 
   - name: &cftoGroup Carriage and Ferry Travel Overhaul
+    after:
+      - *icaioGroup
 
   - name: &roriksteadGroup Rorikstead
+    after:
+      - *icaioGroup
 
   - name: &rdoGroup Relationship Dialogue Overhaul
+    after:
+      - *icaioGroup
 
   - name: &cvrGroup Castle Volkihar Rebuilt
 
@@ -1783,6 +1791,8 @@ groups:
   - name: &bcsGroup Book Covers Skyrim
 
   - name: &cwoReduxGroup CIVIL WAR OVERHAUL - Redux
+    after:
+      - *icaioGroup
 
   - name: &wintersunGroup Wintersun Faiths of Skyrim
 
@@ -1844,6 +1854,8 @@ groups:
       - *requiemGroup
 
   - name: &aiDetectionGroup Realistic AI Detection
+    after:
+      - *icaioGroup
 
   - name: &religionGroup Religion
     after:
@@ -1870,10 +1882,16 @@ groups:
       - *landscapeFixesGroup
 
   - name: &skyrimUnboundGroup Skyrim Unbound
+    after:
+      - *icaioGroup
 
   - name: &rloInteriorsGroup Realistic Lighting Overhaul - Interiors
+    after:
+      - *icaioGroup
 
   - name: &icowGroup Immersive College of Winterhold
+    after:
+      - *icaioGroup
 
   - name: &obscuresCWGroup Obscure''s College of Winterhold
     after:
