@@ -1682,6 +1682,8 @@ groups:
 
   - name: &touringCarriagesGroup Touring Carriages
 
+  - name: &jkSkyrimGroup JK''s Skyrim
+
   - name: &moonAndStarGroup Moon and Star
     after:
       - *landscapeFixesGroup
