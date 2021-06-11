@@ -1680,6 +1680,7 @@ groups:
     after:
       - *verdantGroup
 
+  - name: &oppGardensGroup Oppaikuns Gardens
   - name: &touringCarriagesGroup Touring Carriages
 
   - name: &jkSkyrimGroup JK''s Skyrim
