@@ -1694,6 +1694,10 @@ groups:
 
   - name: &aosGroup Audio Overhaul Skyrim
 
+  - name: &iscGroup Immersive Sounds Compendium
+    after:
+      - *aosGroup
+
   - name: &soundsOfSkyrimGroup Sounds of Skyrim Complete
 
   - name: &soulMusicGroup Soulmancer Music Merge
