@@ -1791,6 +1791,8 @@ groups:
       - *rdoGroup
 
   - name: &cvrGroup Castle Volkihar Rebuilt
+    after:
+      - *rdoGroup
 
   - name: &crfGroup Cutting Room Floor
     after:
@@ -1805,6 +1807,8 @@ groups:
   - name: &wintersunGroup Wintersun Faiths of Skyrim
 
   - name: &tciyGroup The Choice is Yours
+    after:
+      - *rdoGroup
 
   - name: &BoethiahBiddingGroup Boethiah''s Bidding
 
@@ -1816,6 +1820,9 @@ groups:
       - *rdoGroup
 
   - name: &gdoGroup Guard Dialogue Overhaul
+    after:
+      - *crfGroup
+      - *rdoGroup
 
   - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
 
