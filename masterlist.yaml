@@ -1681,9 +1681,14 @@ groups:
       - *verdantGroup
 
   - name: &oppGardensGroup Oppaikuns Gardens
+    after:
+      - *landscapeFixesGroup
+
   - name: &touringCarriagesGroup Touring Carriages
 
   - name: &jkSkyrimGroup JK''s Skyrim
+    after:
+      - *landscapeFixesGroup
 
   - name: &moonAndStarGroup Moon and Star
     after:
@@ -1710,17 +1715,26 @@ groups:
       - *soundsOfSkyrimGroup
 
   - name: &karthwastenGroup Karthwasten
+    after:
+      - *landscapeFixesGroup
 
   - name: &kynesgroveGroup Kynesgrove
+    after:
+      - *landscapeFixesGroup
 
   - name: &shorsStoneGroup Shor''s Stone
+    after:
+      - *landscapeFixesGroup
 
   - name: &soljundSinkholeGroup Soljund''s Sinkhole
+    after:
+      - *landscapeFixesGroup
 
   - name: &sewersGroup Skyrim Sewers
 
   - name: &icaioGroup Immersive Citizens AI Overhaul
     after:
+      - *landscapeFixesGroup
       - *sewersGroup
 
   - name: &dawnstarGroup Dawnstar
@@ -1844,6 +1858,8 @@ groups:
   - name: &effGroup Extensible Follower Framework
 
   - name: &aslalGroup Alternate Start - Live Another Life
+    after:
+      - *landscapeFixesGroup
 
   - name: &skyrimUnboundGroup Skyrim Unbound
 
