@@ -1723,6 +1723,10 @@ groups:
     after:
       - *sewersGroup
 
+  - name: &dawnstarGroup Dawnstar
+    after:
+      - *icaioGroup
+
   - name: &graniteHillGroup Fall of Granite Hill
     after:
       - *holdBannersGroup
