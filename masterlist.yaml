@@ -1728,6 +1728,10 @@ groups:
       - *holdBannersGroup
       - *icaioGroup
 
+  - name: &falkreathGroup Falkreath
+    after:
+      - *icaioGroup
+
   - name: &etacGroup Expanded Towns and Cities
 
   - name: &rigmorOfBrumaGroup Rigmor of Bruma
