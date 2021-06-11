@@ -1706,6 +1706,8 @@ groups:
     after:
       - *soundsOfSkyrimGroup
 
+  - name: &karthwastenGroup Karthwasten
+
   - name: &kynesgroveGroup Kynesgrove
 
   - name: &shorsStoneGroup Shor''s Stone
