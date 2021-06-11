@@ -1754,6 +1754,8 @@ groups:
 
   - name: &waccfGroup Weapons Armor Clothing & Clutter Fixes
 
+  - name: &rlsGroup Relighting Skyrim
+
   - name: &waccfACEGroup WACCF Armor and Clothing Extension
     after:
       - *waccfGroup
@@ -1819,8 +1821,6 @@ groups:
   - name: &aslalGroup Alternate Start - Live Another Life
 
   - name: &skyrimUnboundGroup Skyrim Unbound
-
-  - name: &rlsGroup Relighting Skyrim
 
   - name: &rloInteriorsGroup Realistic Lighting Overhaul - Interiors
 
