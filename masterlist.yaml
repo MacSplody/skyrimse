@@ -1710,6 +1710,8 @@ groups:
 
   - name: &soljundSinkholeGroup Soljund''s Sinkhole
 
+  - name: &sewersGroup Skyrim Sewers
+
   - name: &icaioGroup Immersive Citizens AI Overhaul
 
   - name: &graniteHillGroup Fall of Granite Hill
